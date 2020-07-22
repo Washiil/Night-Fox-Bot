@@ -1,0 +1,15 @@
+{
+  "name": "self-bot",
+  "version": "1.0.0",
+  "description": "Discord.js Self Bot Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Washi",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "nodemon": "^2.0.4"
+  }
+}
